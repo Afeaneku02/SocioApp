@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3e13721-6c18-4712-b634-71a4740fd760" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SocioApp NN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SocioApp NN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/voice_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/voice_classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/voice_classifier_binary.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/voice_classifier_binary.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593704_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593713_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593718_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593723_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593729_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593733_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593738_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593743_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593748_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593752_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593758_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593763_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593768_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593775_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593780_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593784_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593789_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593794_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593798_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593804_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593813_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593818_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593823_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593828_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593834_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593839_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593844_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593849_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593854_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593859_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593865_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593871_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593876_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593880_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593885_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593890_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593895_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593900_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593905_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593910_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593919_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593924_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593929_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593934_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593939_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593944_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593949_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593955_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593959_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/baseline/s1_baseline_AudioData__2022_03_291648593964_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_1_AudioData__2022_03_291648594561_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_2_AudioData__2022_03_291648594964_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_3_AudioData__2022_03_291648595301_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_4_AudioData__2022_03_291648595734_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_4_AudioData__2022_03_291648595838_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_6_AudioData__2022_03_291648596452_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s1/s1_case_7_AudioData__2022_03_291648597074_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594021_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594029_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594036_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594042_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594048_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594055_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594062_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594068_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594075_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594083_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594091_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594097_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594105_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594112_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594119_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594125_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594133_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594141_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594148_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594155_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594167_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594215_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594222_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594228_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594235_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594241_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594248_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594254_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594262_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594270_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594278_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594286_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594293_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594300_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594306_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594312_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594320_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594325_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594332_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594338_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594344_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594352_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594357_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594365_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594371_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594378_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594385_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594392_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594399_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594406_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/baseline/s2_baseline_AudioData__2022_03_291648594411_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_1_AudioData__2022_03_291648594721_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_2_AudioData__2022_03_291648595105_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_3_AudioData__2022_03_291648595471_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_5_AudioData__2022_03_291648596057_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_5_AudioData__2022_03_291648596269_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_6_AudioData__2022_03_291648596825_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/s2/s2_case_7_AudioData__2022_03_291648597261_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_1_AudioData__2022_03_291648594561_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_2_AudioData__2022_03_291648594964_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_3_AudioData__2022_03_291648595301_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_4_AudioData__2022_03_291648595734_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_4_AudioData__2022_03_291648595838_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_6_AudioData__2022_03_291648596452_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s1_case_7_AudioData__2022_03_291648597074_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_1_AudioData__2022_03_291648594721_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_2_AudioData__2022_03_291648595105_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_3_AudioData__2022_03_291648595471_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_5_AudioData__2022_03_291648596057_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_5_AudioData__2022_03_291648596269_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_6_AudioData__2022_03_291648596825_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickles/initial_testing_data/testData/s2_case_7_AudioData__2022_03_291648597261_features.pkl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29x31h4vA878h9uOXH9we62LP9h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Winfred/anaconda3/envs/SocioAppENVO&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3e13721-6c18-4712-b634-71a4740fd760" name="Changes" comment="" />
+      <created>1654040698791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654040698791</updated>
+      <workItem from="1654040702129" duration="304000" />
+      <workItem from="1655249724426" duration="10632000" />
+      <workItem from="1657064860805" duration="2136000" />
+      <workItem from="1657149079487" duration="940000" />
+      <workItem from="1657226001178" duration="4167000" />
+      <workItem from="1657636936576" duration="1262000" />
+      <workItem from="1658427327268" duration="1622000" />
+      <workItem from="1658754675642" duration="1560000" />
+      <workItem from="1661475983384" duration="26000" />
+      <workItem from="1662950221603" duration="2893000" />
+      <workItem from="1663159651532" duration="3352000" />
+      <workItem from="1663795188772" duration="2592000" />
+      <workItem from="1667359235314" duration="3847000" />
+      <workItem from="1667880773441" duration="22545000" />
+      <workItem from="1668094690743" duration="6988000" />
+      <workItem from="1668108739665" duration="2882000" />
+      <workItem from="1668642923306" duration="12416000" />
+      <workItem from="1669568657052" duration="431000" />
+      <workItem from="1669772793319" duration="9792000" />
+      <workItem from="1670797556906" duration="2360000" />
+      <workItem from="1677513697043" duration="1945000" />
+      <workItem from="1677516045610" duration="7746000" />
+      <workItem from="1677631417171" duration="11933000" />
+      <workItem from="1678395622266" duration="2073000" />
+      <workItem from="1681139671697" duration="1734000" />
+      <workItem from="1681390864355" duration="564000" />
+      <workItem from="1681391562189" duration="2034000" />
+      <workItem from="1687434235087" duration="1038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Winfred/PycharmProjects/SocioApp-Keras-NN/code/voice_classifier.ipynb</url>
+          <line>233</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Winfred/PycharmProjects/SocioApp-Keras-NN/code/voice_classifier.ipynb</url>
+          <line>347</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
